@@ -4,5 +4,6 @@ public class MainPussel {
         Här har vi kanske en kort konstruktor där vi kan ändra meddelanden och kanske antal rutor, men all
         huvudkod ska vara i andra klasser
          */
+        //liten ändring
     }
 }
